@@ -32,7 +32,7 @@ Some Personal Record on online open courses from Coursera, MIT Open Courses Ware
 | CS161 Computer Security                                      | WEB      | Stanford  |      | 0          | 10   |
 | CS169 Software Engineering                                   | SE       | Stanford  |      | 0          | 11   |
 | CS246 Mining Massive Datasets                                | ML       | Stanford  |      | 0          | 12   |
-| CS229 Machine Learning                                       | ML       | Stanford  |      | 0          | 13   |
+| CS229 Machine Learning                                       | ML       | Stanford  |      | 1          | 13   |
 | CS143 Compilers                                              | CS       | Stanford  |      | 0          | 14   |
 | 15-213 CSAPP                                                 | CS       | CMU       |      | 0          | 15   |
 | 15-445 Intro to Database System                              | DB       | CMU       |      | 0          | 16   |
@@ -43,6 +43,21 @@ Some Personal Record on online open courses from Coursera, MIT Open Courses Ware
 | [Analytic Combinatorics](https://www.bilibili.com/video/BV1cW411V7HG?p=1) | DS & ALG | Princeton |      | 1          | 21   |
 | Computer Architecture                                        | CS       | Princeton |      | 1          | 22   |
 | Bitcoin and Cryptocurrency Technologies                      |          | Princeton |      | 1          | 23   |
+| Java Programming:Foundations With Js-Html-Css                |          | Duke      |      |            |      |
+| Java Programming: Solving Problems With  Software            |          | Duke      |      |            |      |
+| Java Programming: Arrays Lists Structured Data               |          | Duke      |      |            |      |
+| Java Programming: Principles Of Software Design              |          | Duke      |      |            |      |
+| Java Programming: Object Oriented Programming Java           |          | Duke      |      |            |      |
+| Java Programming: Data Structures Performance                |          | Duke      |      |            |      |
+| Java Programming: Build Recommendation System                |          | Duke      |      |            |      |
+|                                                              |          |           |      |            |      |
+|                                                              |          |           |      |            |      |
+|                                                              |          |           |      |            |      |
+|                                                              |          |           |      |            |      |
+|                                                              |          |           |      |            |      |
+|                                                              |          |           |      |            |      |
+|                                                              |          |           |      |            |      |
+|                                                              |          |           |      |            |      |
 |                                                              |          |           |      |            |      |
 
 **17-21:** Princeton's Algorithms and Java Programming fundamentals series are based on *Computer Science: An Interdisciplinary Approach* and *Algorithms 4th edition*. The fisrt 4 courses can train people from java green hand to skilled java algorithms programer with enough high-quality traning assignments and learning materials. Through the steps
